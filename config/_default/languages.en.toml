@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "What's in a Blog?"
+title = "Because why not?"
 
 [params]
   displayName = "EN"
@@ -13,6 +13,8 @@ title = "What's in a Blog?"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
+  subtitle1 = "A personal website/blog thingy."
+  subtitle2 = "*No ads. No AI bullshit.*"
 
 [params.author]
   name = "Tobias Brückner"
