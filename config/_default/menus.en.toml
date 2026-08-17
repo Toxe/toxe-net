@@ -1,7 +1,7 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
 # Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
+#
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
 #   pageRef = The identifier of the page or section to link to
@@ -10,10 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+name = "Posts"
+pageRef = "/posts"
+weight = 10
 
 #[[main]]
 #  name = "Parent"
@@ -47,11 +47,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
+[[main]]
+name = "Tags"
+pageRef = "/tags"
+weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -67,3 +66,48 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+[[footer]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/Toxe"
+weight = 1
+
+[[footer]]
+identifier = "bluesky"
+pre = "bluesky"
+url = "https://bsky.app/profile/sirtoxe.bsky.social"
+weight = 2
+
+[[footer]]
+identifier = "reddit"
+pre = "reddit"
+url = "https://reddit.com/user/SirToxe"
+weight = 3
+
+[[footer]]
+identifier = "itch-io"
+pre = "itch-io"
+url = "https://toxe.itch.io"
+weight = 4
+
+[[footer]]
+identifier = "youtube"
+pre = "youtube"
+url = "https://www.youtube.com/@SirToxe"
+weight = 5
+
+[[footer]]
+name = "About"
+pageRef = "/about"
+weight = 11
+
+[[footer]]
+name = "🇩🇪 Impressum"
+pageRef = "/impressum"
+weight = 12
+
+[[footer]]
+name = "🇩🇪 Datenschutzerklärung"
+pageRef = "/Datenschutzerklärung"
+weight = 13
