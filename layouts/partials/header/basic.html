@@ -30,7 +30,7 @@
         <a href="{{ "" | relLangURL }}" class="truncate min-w-0 shrink">{{ .Site.Params.subtitle1 | markdownify }}</a>
       </div>
       <div class="text-sm font-light truncate min-w-0">
-        {{ .Site.Params.subtitle2 | markdownify }}
+        <a href="{{ "/about" | relLangURL }}" class="truncate min-w-0 shrink">{{ .Site.Params.subtitle2 | markdownify }}</a>
       </div>
     </div>
   {{ end }}
