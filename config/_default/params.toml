@@ -45,6 +45,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 # our own custom site params, independent from the theme
 [custom]
+siteSubtitle1 = "A personal website/blog thingy."
+siteSubtitle2 = "*No ads. No AI bullshit.*"
 showArticleMeta = true
 showAuthorInArticleMeta = true
 
