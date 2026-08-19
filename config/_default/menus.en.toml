@@ -68,46 +68,52 @@ weight = 30
 #   weight = 20
 
 [[footer]]
+identifier = "email"
+pre = "email"
+url = "mailto:toxe@toxe.net"
+weight = 10
+
+[[footer]]
 identifier = "github"
 pre = "github"
 url = "https://github.com/Toxe"
-weight = 1
+weight = 20
 
 [[footer]]
 identifier = "bluesky"
 pre = "bluesky"
 url = "https://bsky.app/profile/sirtoxe.bsky.social"
-weight = 2
+weight = 30
 
 [[footer]]
 identifier = "reddit"
 pre = "reddit"
 url = "https://reddit.com/user/SirToxe"
-weight = 3
+weight = 40
 
 [[footer]]
 identifier = "itch-io"
 pre = "itch-io"
 url = "https://toxe.itch.io"
-weight = 4
+weight = 50
 
 [[footer]]
 identifier = "youtube"
 pre = "youtube"
 url = "https://www.youtube.com/@SirToxe"
-weight = 5
+weight = 60
 
 [[footer]]
 name = "About"
 pageRef = "/about"
-weight = 11
+weight = 110
 
 [[footer]]
 name = "🇩🇪 Impressum"
 pageRef = "/impressum"
-weight = 12
+weight = 120
 
 [[footer]]
 name = "🇩🇪 Datenschutzerklärung"
-pageRef = "/Datenschutzerklärung"
-weight = 13
+pageRef = "/datenschutzerklärung"
+weight = 130
