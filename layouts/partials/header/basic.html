@@ -24,7 +24,7 @@
   {{ if not .Site.Params.disableTextInHeader | default true }}
     <div>
       <div class="text-base font-bold truncate min-w-0">
-        <a href="{{ "" | relLangURL }}" class="truncate min-w-0 shrink">{{ .Site.Title | markdownify }}</a>
+        <a href="{{ "" | relLangURL }}" class="truncate min-w-0 shrink">{{ .Site.Params.custom.siteTitleShort | markdownify }}</a>
       </div>
       <div class="text-sm font-light truncate min-w-0">
         <a href="{{ "" | relLangURL }}" class="truncate min-w-0 shrink">{{ .Site.Params.custom.siteSubtitle1 | markdownify }}</a>
