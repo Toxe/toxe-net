@@ -2,6 +2,7 @@
 date = '2026-08-18T13:55:52+02:00'
 title = 'Godot Coordinate System Transformations'
 tags = ["godot"]
+showTableOfContents = true
 +++
 A couple of examples on how to transform coordinates from one system into another. From local, lower nodes up the scene tree towards higher nodes, including SubViewports and the screen.
 
