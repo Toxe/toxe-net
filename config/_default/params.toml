@@ -45,6 +45,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 # our own custom site params, independent from the theme
 [custom]
+showArticleMeta = true
 showAuthorInArticleMeta = true
 
 [languageRedirect]
