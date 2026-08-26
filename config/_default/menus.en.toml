@@ -110,7 +110,7 @@ url = "https://www.youtube.com/@SirToxe"
 weight = 60
 
 [[footer]]
-name = "About"
+name = "About/Contact/Legal"
 pageRef = "/about"
 weight = 110
 
