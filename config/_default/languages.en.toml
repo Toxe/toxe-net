@@ -12,7 +12,7 @@ title = "Because why not? 😀 Tobias Brückner’s Website"
   logo = "img/avatar.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© 2026 Tobias Brückner. Articles licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), code snippets under [MIT License](https://opensource.org/license/MIT), unless stated otherwise."
 
 [params.author]
   name = "Tobias Brückner"
