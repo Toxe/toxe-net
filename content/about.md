@@ -13,3 +13,5 @@ Send me an email at {{< email email="mailto:toxe@toxe.net" text="toxe@toxe.net" 
 ## Copyright
 
 Unless otherwise noted, all articles on this site are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and all code snippets are licensed under the [MIT License](https://opensource.org/license/MIT). The underlying [source code of the website](https://github.com/Toxe/toxe-net) is under the [MIT License](https://opensource.org/license/MIT).
+
+Using this website's content for AI/ML/LLM training or development is strictly prohibited.
