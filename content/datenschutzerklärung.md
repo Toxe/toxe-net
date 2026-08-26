@@ -182,21 +182,6 @@ Die Kommentare und die damit verbundenen Daten werden gespeichert und verbleiben
 
 Die Speicherung der Kommentare erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können eine von Ihnen erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
-### Gravatar
-
-Wir haben Gravatar auf dieser Website eingebunden. Anbieter ist die Automattic Inc., 60 29th Street #343, San Francisco, CA 94110, USA (nachfolgend Gravatar).
-
-Gravatar ist ein Tool, das es ermöglicht, persönliche Bilder (Avatare) für die Nutzer unserer Website bereitzustellen. Die Avatare dienen als visuelle Repräsentationen der Nutzer und werden überall dort angezeigt, wo ein Nutzer mit der Plattform interagiert (z. B. in Foren oder Chats). Wenn ein Nutzer mit der Plattform interagiert, wird sein Avatar basierend auf der mit seiner E-Mail-Adresse verknüpften Auswahl angezeigt. Dies verleiht der Online-Präsenz der Nutzer eine persönliche Note und erleichtert die Identifizierung, da das gewählte Bild den Nutzern zugeordnet wird, wenn sie online aktiv sind.
-
-Wenn Sie auf unserer Website kommentieren bzw. interagieren und dabei Gravatar aktiviert ist, wird der Hash der E-Mail-Adresse des Nutzers, der Gravatar nutzt (wird als ID genutzt) von Gravatar verarbeitet.
-
-Die Verwendung von Gravatar erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an einer ansprechenden Darstellung seiner Foren. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar.
-
-Weitere Details entnehmen Sie der Datenschutzerklärung des Anbieters unter https://automattic.com/privacy/.
-
-Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link:  
-https://www.dataprivacyframework.gov/participant/4709.
-
 ## 5. Plugins und Tools
 
 ### YouTube mit erweitertem Datenschutz
