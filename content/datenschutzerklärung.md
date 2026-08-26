@@ -1,6 +1,7 @@
 +++
 date = '2026-05-20T18:28:37+02:00'
 title = 'Datenschutzerklärung'
+showComments = false
 +++
 > [!info]
 > This is required by German law.

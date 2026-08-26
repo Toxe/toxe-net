@@ -1,16 +1,17 @@
 +++
 date = '2026-05-20T16:49:54+02:00'
 title = 'About'
+showComments = false
 +++
 A simple website/blog for writing down thoughts and other things that might be interesting or useful to at least one person out there. Because why not?
 
-Powered by [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page).
+Powered by [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page). Comments are provided by [giscus](https://giscus.app).
 
 This website's source code repository can be found here: https://github.com/Toxe/toxe-net
 
 ## Contact
 
-Send me an email at {{< email email="mailto:toxe@toxe.net" text="toxe@toxe.net" >}}.
+Send me an email at {{< email email="mailto:toxe@toxe.net" text="toxe@toxe.net" >}} or leave a comment under an article.
 
 ## Copyright
 

@@ -120,6 +120,7 @@ showAuthorInArticleMeta = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
   showZenMode = false
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
+  showComments = true
 
 [list]
   showHero = false
@@ -211,3 +212,16 @@ showAuthorInArticleMeta = true
 
 [advertisement]
   # adsense = ""
+
+[giscus]
+  repo = "Toxe/toxe-net"
+  repoID = "R_kgDOScOY-Q"
+  category = "Article Comments"
+  categoryID = "DIC_kwDOScOY-c4DEOBi"
+  mapping = "pathname"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "light"
+  lang = "en"
+  loading = "lazy"
