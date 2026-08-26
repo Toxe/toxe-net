@@ -6,6 +6,8 @@ A simple website/blog for writing down thoughts and other things that might be i
 
 Powered by [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page).
 
+This website's source code repository can be found here: https://github.com/Toxe/toxe-net
+
 ## Contact
 
 Send me an email at {{< email email="mailto:toxe@toxe.net" text="toxe@toxe.net" >}}.
