@@ -1,6 +1,6 @@
 +++
 date = '{{ .Date }}'
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = '{{ strings.ReplacePairs "-" " " "_" " " .File.ContentBaseName | title }}'
 tags = []
 +++
